@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahi Chowdhury</h1>
 <h3 align="center">I'm a Student, Web Developer</h3>
 
-- 🔭 I’m currently working on **my portofolio**
+- 🔭 I’m currently working on **Website Clone**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
