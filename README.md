@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Improving Portofolio**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 🥅 Goals: **I want to conquer my design.**
+- 🥅 Goals: **I want to conquer my design & development skills.**
 
 - ⚡ Fun fact **I love to play games / traveling**
 
